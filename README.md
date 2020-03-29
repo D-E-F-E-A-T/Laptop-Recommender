@@ -7,6 +7,7 @@ Image Based + NLP Based RS
 
 Python Based + React frontend
 
+Also will build or intergrate a web spider to help me build this
 
 WIP
   
