@@ -11,3 +11,6 @@ Also will build or intergrate a web spider to help me build this
 
 WIP
   
+- https://github.com/arijeetsat/Dell-Recommender-System
+- https://github.com/microsoft/recommenders
+- https://github.com/amitkaps/recommendation
