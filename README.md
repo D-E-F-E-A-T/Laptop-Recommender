@@ -14,3 +14,5 @@ WIP
 - https://github.com/arijeetsat/Dell-Recommender-System
 - https://github.com/microsoft/recommenders
 - https://github.com/amitkaps/recommendation
+- https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Recommender%20Systems%20-%20The%20Fundamentals.ipynb
+- https://github.com/maciejkula/spotlight
