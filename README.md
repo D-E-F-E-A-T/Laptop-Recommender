@@ -9,6 +9,8 @@ Python Based + React frontend + Methods from Deep Learning by pytorch
 
 Also will build or intergrate a web spider to help me build this
 
+Written in python and elixirs
+
 WIP
   
 - https://github.com/arijeetsat/Dell-Recommender-System
