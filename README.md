@@ -16,5 +16,6 @@ WIP
 - https://github.com/arijeetsat/Dell-Recommender-System
 - https://github.com/microsoft/recommenders
 - https://github.com/amitkaps/recommendation
-- https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Recommender%20Systems%20-%20The%20Fundamentals.ipynb
 - https://github.com/maciejkula/spotlight
+- https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Recommender%20Systems%20-%20The%20Fundamentals.ipynb
+- https://www.researchgate.net/publication/255711674_Combining_Algorithms_for_Recommendation_System_on_Twitter
