@@ -19,3 +19,4 @@ WIP
 - https://github.com/maciejkula/spotlight
 - https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Recommender%20Systems%20-%20The%20Fundamentals.ipynb
 - https://www.researchgate.net/publication/255711674_Combining_Algorithms_for_Recommendation_System_on_Twitter
+- https://link.springer.com/chapter/10.1007/978-3-319-07863-2_55
