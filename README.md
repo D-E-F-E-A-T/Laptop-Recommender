@@ -1,6 +1,8 @@
 # Laptop-Recommender
 Recommendation System to choose your next best laptop
 
+# Basic Idea 
+
 I'll either use linear programming or similar, or ML/DL
 
 - Image Based + NLP Based RS 
